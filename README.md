@@ -100,7 +100,6 @@ ATmega328P-Digital-Password-Lock/
 │
 ├── README.md
 ├── on.pdf
-├── off.pdf
 │
 ├── src/
 │   └── main.c
