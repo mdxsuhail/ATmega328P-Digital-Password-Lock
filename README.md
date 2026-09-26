@@ -107,7 +107,6 @@ ATmega328P-Digital-Password-Lock/
 │
 └── circuit/
     ├── on.pdf
-    └── off.pdf
 ```
 
 ## 🎯 Learning Objectives
